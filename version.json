@@ -1,6 +1,6 @@
 {
-  "latestVersion": "9.0.0",
-  "minimumVersion": "2.0.0",
+  "latestVersion": "2.0.2",
+  "minimumVersion": "2.0.1",
   "forceUpdate": false,
-  "message": "A newer version of TradeClarity is available."
+  "message": "New improvements available."
 }
